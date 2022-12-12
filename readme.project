@@ -2,7 +2,7 @@ Title:
     Social Media Tweet Analyser.
 
 Project Overview:
-    Statistical Analysis of What App Chat.
+    Statistical Analysis of tweet.
     Detect and visualize Emotions of tweet. Utilizing the tweet emotions csv and filtering out 
     the only required emotions and buliding classification on top of it. (happiness, sadness, hate, neutral)
 
